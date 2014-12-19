@@ -1,4 +1,4 @@
-arraycore.github.io
-===================
+arrayCORE
+=========
 
-arraycore official website
+:gem: Yeeha!
